@@ -37,7 +37,8 @@ The dataset includes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./Financial%20Analysis.jpg)
+![Financial Analysis - Dashboard](https://github.com/user-attachments/assets/871dadfa-a38d-4ddc-92a1-ed31df3b8afc)
+
 
 ---
 
