@@ -2,6 +2,14 @@
 
 This project involves analyzing a dataset of movies to extract useful insights using Python and data analysis libraries. It was done as part of my data analytics learning journey.
 
+## 📊 Project Overview
+The analysis highlights:
+- 🎥 Top Performing Movies based on ratings and revenue
+- 🎭 Popular Genres across different time periods
+- 🗓️ Movie Release Trends over the years
+- 💰 Revenue vs Budget Correlation
+- ⭐ High-rated Movies vs Commercial Success
+
 ## 📁 Project Structure
 
 - Movie_Data.ipynb: The main Jupyter notebook containing the analysis and visualizations.
