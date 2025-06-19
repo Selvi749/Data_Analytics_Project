@@ -1,4 +1,3 @@
-
 #🎬 Movie Data Analysis
 This project performs an exploratory data analysis on a movie dataset using Python. It involves data cleaning, transformation, visualization, and insight extraction using popular Python libraries.
 ##📂 Dataset
