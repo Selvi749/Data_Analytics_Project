@@ -30,11 +30,11 @@ The goal of this project is to help business users and analysts quickly identify
 
 ## 📷 Dashboard Preview
 
-![Superstore Dashboard - Slide 1 - Sales Analysis](https://github.com/user-attachments/assets/80892443-f7d7-45b7-8632-ce27f609dc1f)
-![Superstore Dashboard - Slide 2 - Sales Trend   Category Analysis](https://github.com/user-attachments/assets/4ae2e131-1daa-4aad-af02-2cc7cb7e42b7)
-![Superstore Dashboard - Slide 3 - Profitability Analysis](https://github.com/user-attachments/assets/295ace8b-7853-495f-8841-6542a5660b2c)
-![Superstore Dashboard - Slide 4 - Customer   Segment Analysis](https://github.com/user-attachments/assets/f2c97930-a430-4707-9c2c-d9bc376acac7)
-![Superstore Dashboard - Slide 5 - Discount   Shipping Impact](https://github.com/user-attachments/assets/064131a7-7735-4d31-88f6-27b1e8990b31)
+![Superstore Dashboard - Slide 1 - Sales Analysis](https://github.com/user-attachments/assets/f8e0aa3f-f4d1-4868-a385-4ec16fd8c2b3)
+![Superstore Dashboard - Slide 2 - Sales Trend   Category Analysis](https://github.com/user-attachments/assets/bd974239-ba1a-4d57-95ce-4b4fb760f221)
+![Superstore Dashboard - Slide 3 - Profitability Analysis](https://github.com/user-attachments/assets/e64d0256-75d5-4eca-9ee9-f165f7ccc014)
+![Superstore Dashboard - Slide 4 - Customer   Segment Analysis](https://github.com/user-attachments/assets/4434f7b4-0fb2-42a0-bda9-0916beb27a4a)
+![Superstore Dashboard - Slide 5 - Discount   Shipping Impact](https://github.com/user-attachments/assets/53e470a3-7c14-4c6b-8459-68c048cf0483)
 
 
 ---
